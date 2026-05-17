@@ -1,0 +1,25 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <defs>
+    <radialGradient id="whispyBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#70e1ff" stop-opacity="0.08"></stop>
+      <stop offset="60%" stop-color="#8cf5b5" stop-opacity="0.05"></stop>
+      <stop offset="100%" stop-color="#f7c76b" stop-opacity="0"></stop>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="120" fill="url(#whispyBg)"></rect>
+  
+  <!-- Main Logo Text -->
+  <text x="20" y="70" font-family="system-ui, sans-serif" font-size="42" font-weight="900" fill="#eef7ff">
+    BCBC
+  </text>
+
+  <!-- Subtitle -->
+  <text x="140" y="70" font-family="system-ui, sans-serif" font-size="18" fill="#a9bfd0">
+    Technician Tools • Learning • Repair • Privacy • Control
+  </text>
+
+  <!-- Accent Whisps -->
+  <path d="M0,80 C200,20 400,100 1000,60" stroke="#70e1ff" stroke-opacity="0.2" stroke-width="2" fill="none"></path>
+  <path d="M0,100 C300,40 600,120 1000,80" stroke="#8cf5b5" stroke-opacity="0.15" stroke-width="2" fill="none"></path>
+</svg>
