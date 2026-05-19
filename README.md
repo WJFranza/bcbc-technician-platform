@@ -41,3 +41,10 @@ William James Franza
 Systems engineer, infrastructure operator, and technician tool builder.
 
 Assisted by ChatGPT (OpenAI tools used for structuring and development support)
+
+## Infrastructure Support
+
+Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
+
+
+<img width="96" height="48" alt="cloudns-logo-crop" src="https://github.com/user-attachments/assets/3d379a71-292a-4dec-9703-635c809c22e5" />
